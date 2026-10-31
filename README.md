@@ -1,15 +1,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:1E3A8A,100:06B6D4&text=MD%20SAMIM%20AKHTAR&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:1E3A8A,100:06B6D4&text=MD%20SAMIM%20AKHTAR&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Enthusiast&descAlignY=60&animation=fadeIn" width="100%" alt="Profile Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Electron;Turning+Ideas+Into+Reality" />
+# Hi, I'm Md Samim Akhtar 👋
 
-<br/>
+### 💻 Software Developer | Full Stack Development
 
-<img src="https://komarev.com/ghpvc/?username=mdsamimakhtar&style=for-the-badge&color=0891b2" />
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-16A34A?style=for-the-badge" />
+*Building modern applications and turning ideas into reality.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=mdsamimakhtar&style=for-the-badge&color=0891b2)
+
+![Java](https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-Developer-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-Developer-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -21,23 +25,36 @@
 const developer = {
   name: "Md Samim Akhtar",
   role: "Software Developer",
+
+  skills: [
+    "Java",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Electron"
+  ],
+
   interests: [
     "Full Stack Development",
-    "Modern Web Applications",
-    "Desktop Applications"
+    "Desktop Applications",
+    "Software Architecture",
+    "Clean Code"
   ],
-  technologies: [
-    "React", "JavaScript",
-    "Node.js", "Electron"
-  ],
-  motto: "Build. Learn. Improve. Repeat."
+
+  currentFocus: "Building scalable applications",
+
+  motto: "Code. Create. Innovate."
 };
 ```
 
-- 🚀 Passionate about building modern applications
-- 💻 Exploring full-stack and desktop development
-- 🎯 Focused on clean code and great user experiences
-- 🤝 Interested in collaborating on exciting projects
+- 🚀 Building modern and user-friendly applications
+- ☕ Interested in Java and backend development
+- ⚛️ Exploring React and full-stack technologies
+- 🖥️ Working with Electron desktop applications
+- 📚 Continuously learning new technologies
+- 🤝 Interested in software development opportunities
 
 ---
 
@@ -45,7 +62,25 @@ const developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,electron,git,github,vscode&perline=6" />
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" alt="Java JavaScript HTML CSS" />
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" alt="React Tailwind Vite" />
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js Express" />
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB MySQL" />
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,electron,postman&theme=dark" alt="Git GitHub VS Code Electron Postman" />
 
 </div>
 
@@ -55,13 +90,15 @@ const developer = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdsamimakhtar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+### 🔥 Contribution Streak
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsamimakhtar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://streak-stats.demolab.com?user=mdsamimakhtar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mdsamimakhtar&theme=tokyonight&hide_border=true&background=0D1117" />
+[![Repositories](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsamimakhtar?tab=repositories)
+
+[![Contributions](https://img.shields.io/badge/View_My_Activity-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsamimakhtar)
 
 </div>
 
@@ -69,23 +106,44 @@ const developer = {
 
 ## 🚀 Featured Project
 
+### 🏢 SAMT-ERP
+
+**Enterprise Resource Planning Application**
+
+A software project focused on ERP workflows and business management.
+
+**Project Repository**
+
+[![SAMT ERP](https://img.shields.io/badge/View_SAMT--ERP-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/mdsamimakhtar/SAMT-ERP)
+
+---
+
+## 📈 Development Activity
+
 <div align="center">
 
-<a href="https://github.com/mdsamimakhtar/SAMT-ERP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdsamimakhtar&repo=SAMT-ERP&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+### 💻 My Coding Journey
+
+*Learning, building, and improving with every project.*
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Development_Activity-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsamimakhtar)
+
+[![Projects](https://img.shields.io/badge/Explore-My_Projects-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsamimakhtar?tab=repositories)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🎯 Development Philosophy
 
-<div align="center">
+> "Great software is built through continuous learning,
+> clean architecture, and thoughtful problem-solving."
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsamimakhtar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
+- ✨ Write clean and maintainable code
+- ⚡ Focus on performance and usability
+- 🔒 Build secure and reliable applications
+- 📚 Keep learning and improving
+- 🚀 Turn ideas into practical solutions
 
 ---
 
@@ -93,9 +151,7 @@ const developer = {
 
 <div align="center">
 
-<a href="https://github.com/mdsamimakhtar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsamimakhtar)
 
 </div>
 
@@ -103,10 +159,12 @@ const developer = {
 
 <div align="center">
 
-### 💙 Thanks for visiting!
+### 💙 Thanks for Visiting!
 
-*Code. Create. Innovate.*
+**Let's build something amazing together.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0D1117&height=110&section=footer" width="100%" />
+*Code • Create • Innovate • Repeat*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0D1117&height=110&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
