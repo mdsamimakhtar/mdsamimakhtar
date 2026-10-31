@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**mdsamimakhtar/mdsamimakhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Md Samim Akhtar 👋
 
-Here are some ideas to get you started:
+### 💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about building scalable web applications,
+modern user interfaces, and real-world software solutions.
+
+## 🚀 About Me
+- 🔭 Working on full-stack applications
+- 🌱 Exploring modern web technologies
+- 💻 Interested in React, Node.js and Electron
+- 🤝 Open to software development opportunities
+
+## 🛠️ Tech Stack
+![Skills](https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,tailwind,git,github,electron)
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=mdsamimakhtar&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com?user=mdsamimakhtar&theme=tokyonight)
+
+## 📈 Most Used Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsamimakhtar&layout=compact&theme=tokyonight)
